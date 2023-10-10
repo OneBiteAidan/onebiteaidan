@@ -13,6 +13,6 @@
 - Build my own website
 
 ### Contact Me!
-- __Discord__: OneBiteAidan
-- __Twitter__: @AidanBite
+- **Discord**: OneBiteAidan
+- **Twitter**: @AidanBite
   
