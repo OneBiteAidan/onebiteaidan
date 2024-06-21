@@ -1,6 +1,6 @@
 ## Salutations 👋
 ### A bit about me!
-- I'm a third year Computer Engineering undergraduate student
+- I'm a third year Computer Science undergraduate student
 - At University I research autonomous underwater robotics
 - In my free time I focus on personal projects, my largest of which is my Minecraft server TownyTTV
 - I've been practicing Java for 5 years and am fluent in the Spigot API 
